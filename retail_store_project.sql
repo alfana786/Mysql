@@ -1,6 +1,5 @@
 -- ============================================================
 -- Retail Store Database Project
--- Author: [Your Name]
 -- Description: A MySQL-based retail store database project
 -- demonstrating database creation, table design, relationships,
 -- sample data insertion, and analytical queries.
